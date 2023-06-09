@@ -15,7 +15,7 @@ This program calculates the next prime age based on a given birth year.
 3. Run the following command to execute the program:
 
    ```bash
-   python prime_age_calculator.py
+   python main.py
    ```
 
 
