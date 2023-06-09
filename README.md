@@ -1,6 +1,6 @@
 # Prime Age Calculator
 
-This program calculates the next prime age based on a given birth year.
+This program calculates the year of the next prime age based on a given birth year.
 
 ## Prerequisites
 
